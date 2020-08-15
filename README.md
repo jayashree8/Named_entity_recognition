@@ -5,5 +5,5 @@ Named-entity recognition (NER) (also known as entity identification, entity chun
 ### The dataset is taken from kaggle. 
 https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus/home?select=ner_dataset.csv
 
-![](picture.png)
+![](picture.PNG)
 
